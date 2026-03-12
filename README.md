@@ -1,14 +1,15 @@
-# Port Scanner
+# Python Cybersecurity Tools
 
-A simple Python script to scan open ports on a target host.
+This repository contains simple Python scripts used for learning and practicing basic cybersecurity and networking concepts.
 
-## Requirements
+## Files Included
 
-- Python 3.x
+### 1. port_scanner.py
+A Python script used to scan open ports on a target host.
 
-## Usage
+#### How to Run
 
-To run the script, use the following command:
+Run the following command in your terminal:
 
 ```bash
 python3 port_scanner.py
